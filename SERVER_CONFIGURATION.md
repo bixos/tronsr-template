@@ -1,1 +1,4 @@
-Describe your server configuration
+36 CPUs x Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz (Total 72 Thread)
+768 GB DDR4 Ram
+3 TB SSD (Raid5, 1.82 TB Useable) 
+Up to 80GBit network
