@@ -1,7 +1,7 @@
 ## Board Members
 
-Name: Mikail Emre Çalışkan
-Role: Co-Founder & CEO
+- *Name*: Mikail Emre Çalışkan
+  *Role*: Co-Founder & CEO
 
 Name: Can Kazancıoğlu
 Role: Co-Founder & CMO
