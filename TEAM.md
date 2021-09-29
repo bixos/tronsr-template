@@ -1,3 +1,5 @@
+Our team consists of investors, smart contract analysts, blockchain and crypto market financial experts, and software engineers. They all come together for this: smarter and safer investments for higher profits.
+
 ## Board Members
 
 - **Mikail Emre Çalışkan** / Co-Founder & CEO
