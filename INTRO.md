@@ -1,1 +1,1 @@
-A short introduction about your team
+Bixos is a company conducting research on the cryptocurrency market and creating solutions in America and Turkey offices with an innovative approach. Bixos is ready to rewrite the rules of the money market and usher in a new age. As Bixos, we aim to make cryptocurrency investments easy, and most importantly, profitable. We are currently working on a DeFi platform that helps users to manage their cryptocurrency portfolios and generate interest.
