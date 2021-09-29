@@ -1,48 +1,20 @@
 ## Board Members
 
-- *Name*: Mikail Emre Çalışkan
-  *Role*: Co-Founder & CEO
-
-Name: Can Kazancıoğlu
-Role: Co-Founder & CMO
-
-Name: Umurcan Görür
-Role: CTO
+- **Mikail Emre Çalışkan** / Co-Founder & CEO
+- **Can Kazancıoğlu** / Co-Founder & CMO
+- **Umurcan Görür** / CTO
 
 ## Developers
 
-Name: Bekir Samet Şirinel
-Role: Back-End Developer & Team Lead 
-
-Name: Faruk Arıgün
-Role: Front-End Developer & Team Lead 
-
-Name: Emir Güvenni
-Role: Back-End Developer
-
-Name: Ahmet Yazbahar
-Role: Back-End Developer
-
-Name: Aydın Acar
-Role: Front-End Developer
-
-Name: Handan Yolak
-Role: Front-End Developer
-
-Name: Yusufcan Yılmaz
-Role: Front-End Developer
-
-Name: Emre Tepe
-Role: Blockchain Developer
-
-Name: Berkant Yıldırım
-Role: Blockchain Developer
-
-Name: Berkant Yıldırım
-Role: Graphic Designer
-
-Name: Gizem Ceylan
-Role: Finance Officer
-
-Name: Rana Arslantürk Yıldırım
-Role: Editor
+- **Bekir Samet Şirinel** / Back-End Developer & Team Lead
+- **Faruk Arıgün** / Front-End Developer & Team Lead
+- **Emir Güvenni** / Back-End Developer
+- **Ahmet Yazbahar** / Back-End Developer
+- **Aydın Acar** / Front-End Developer
+- **Handan Yolak** / Front-End Developer
+- **Yusufcan Yılmaz** / Front-End Developer
+- **Emre Tepe** / Blockchain Developer
+- **Berkant Yıldırım** / Blockchain Developer
+- **Berkant Yıldırım** / Graphic Designer
+- **Gizem Ceylan** / Finance Officer
+- **Rana Arslantürk Yıldırım** / Editor
