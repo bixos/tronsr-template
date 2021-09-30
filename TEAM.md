@@ -6,7 +6,7 @@ Our team consists of investors, smart contract analysts, blockchain and crypto m
 - **Can Kazancıoğlu** / Co-Founder & CMO
 - **Umurcan Görür** / CTO
 
-## Developers
+## Team Members
 
 - **Bekir Samet Şirinel** / Back-End Developer & Team Lead
 - **Faruk Arıgün** / Front-End Developer & Team Lead
