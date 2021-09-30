@@ -17,6 +17,6 @@ Our team consists of investors, smart contract analysts, blockchain and crypto m
 - **Yusufcan Yılmaz** / Front-End Developer
 - **Emre Tepe** / Blockchain Developer
 - **Berkant Yıldırım** / Blockchain Developer
-- **Berkant Yıldırım** / Graphic Designer
+- **Atilla Güneş** / Graphic Designer
 - **Gizem Ceylan** / Finance Officer
 - **Rana Arslantürk Yıldırım** / Editor
