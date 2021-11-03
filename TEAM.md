@@ -2,7 +2,7 @@ Our team consists of investors, smart contract analysts, blockchain and crypto m
 
 ## Board Members
 
-- **Mikail Emre Çalışkan** / Co-Founder & CEO
+- **Mikail Emre Çalışkan** / Founder & CEO
 - **Can Kazancıoğlu** / Co-Founder & CMO
 - **Umurcan Görür** / CTO
 
