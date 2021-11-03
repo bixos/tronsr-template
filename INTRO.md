@@ -1,1 +1,3 @@
-Bixos is a company that focuses its research on the cryptocurrency market and on creating solutions for its investors through innovative approaches. As Bixos, we are rewriting the rules of the financial market and ushering in a new age. With our headquarters in both America and Turkey, we are currently working on a DeFi platform that aids users in managing their cryptocurrency portfolios and generate interests. We aim to make cryptocurrency investments easy, and, most importantly, profitable.
+Bixos was established in the USA in January 2021.
+
+Our goal is to develop technologies that enable investors to make safe and stable profits in the crypto market. To do so, we need to stay up to date with the latest trends and master them rapidly. The latest trends we are investing in today are Staking, DeFi Farming, and DeFi Liquidation. And we have already built our technologies to make safe and stable profits from them and help investors do so, too.
