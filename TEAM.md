@@ -1,22 +1,22 @@
-Our team consists of investors, smart contract analysts, blockchain and crypto market financial experts, and software engineers. They all come together for this: smarter and safer investments for higher profits.
+We are a team of experts who believe in the future of cryptocurrencies. Our team consists of investors, smart contract analysts, blockchain and crypto market financial experts, and software engineers. We all come together for one thing: Make smarter, safer, and more profitable investments accessible to everyone.
 
 ## Board Members
 
-- **Mikail Emre Çalışkan** / Founder & CEO
-- **Can Kazancıoğlu** / Co-Founder & CMO
-- **Umurcan Görür** / CTO
+- **Mikail Emre Caliskan** / Founder & CEO
+- **Can Kazancioglu** / Co-Founder & CMO
+- **Umurcan Gorur** / CTO
 
 ## Team Members
 
-- **Bekir Samet Şirinel** / Back-End Developer & Team Lead
-- **Faruk Arıgün** / Front-End Developer & Team Lead
+- **Bekir Samet Sirinel** / Back-End Developer & Team Lead
+- **Faruk Arigun** / Front-End Developer & Team Lead
 - **Emir Güvenni** / Back-End Developer
 - **Ahmet Yazbahar** / Back-End Developer
-- **Aydın Acar** / Front-End Developer
+- **Aydin Acar** / Front-End Developer
 - **Handan Yolak** / Front-End Developer
-- **Yusufcan Yılmaz** / Front-End Developer
+- **Yusufcan Yilmaz** / Front-End Developer
 - **Emre Tepe** / Blockchain Developer
-- **Berkant Yıldırım** / Blockchain Developer
-- **Atilla Güneş** / Graphic Designer
+- **Berkant Yildirim** / Blockchain Developer
+- **Atilla Gunes** / Graphic Designer
 - **Gizem Ceylan** / Finance Officer
-- **Rana Arslantürk Yıldırım** / Editor
+- **Rana Arslanturk Yildirim** / Editor
