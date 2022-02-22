@@ -1,3 +1,5 @@
 Bixos was established in the USA in January 2021.
 
 Our goal is to develop technologies that enable investors to access the latest crypto trends. To do so, we need to stay up to date with the latest trends and master them rapidly. The latest trends we are investing in today are Staking, DeFi Farming, DeFi Liquidation, NFT, Web 3.0, Metaverse. And we have already built our technology to unite the physical world and the virtual world (metaverse) by melting in the same pot of the real estate market which has a market volume of 100 trillion dollars.
+
+Today, blockchain technologies have become more stable and applicable to the physical world. After the introduction of NFTs, blockchain technologies are able to connect with the physical world. As another major development, thanks to the DAO (Decentralized Autonomous Organization), the doors of decentralized corporations on the blockchain have now been opened without the need for the approval of a central authority. As Bixos Inc., we are working on current trends and a project that will shape the future. Together with our expert software team and blockchain experts, we bring you the future.
