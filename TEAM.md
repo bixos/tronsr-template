@@ -9,14 +9,32 @@ We are a team of experts who believe in the future of cryptocurrencies. Our team
 ## Team Members
 
 - **Bekir Samet Sirinel** / Back-End Developer & Team Lead
-- **Faruk Arigun** / Front-End Developer & Team Lead
+- **Ahmet Yazbahar** / Back-End Developer 
 - **Emir Güvenni** / Back-End Developer
-- **Ahmet Yazbahar** / Back-End Developer
-- **Aydin Acar** / Front-End Developer
-- **Handan Yolak** / Front-End Developer
-- **Yusufcan Yilmaz** / Front-End Developer
+- **Berkant Yıldırım** / Blockchain Developer
 - **Emre Tepe** / Blockchain Developer
-- **Berkant Yildirim** / Blockchain Developer
-- **Atilla Gunes** / Graphic Designer
-- **Gizem Ceylan** / Finance Officer
-- **Rana Arslanturk Yildirim** / Editor
+
+- **Faruk Arıgün** / Front-End Developer & Team Lead
+- **Aydın Acar** / Front-End Developer 
+- **Handan Yolak** / Front-End Developer 
+- **Yusufcan YIlmaz** / Front-End Developer 
+- **Mehdi Hsoumi** / Front-End Developer 
+- **Mohammad Porteghali** / Front-End Developer 
+- **Esma Yiğit** / Front-End Developer 
+
+- **Egemen Öngel** / Mobile Developer 
+- **Bilal Özcan** / Mobile Developer 
+
+- **Atilla Güneş** / Grafik Tasarım
+- **Gizem Ceylan** / Muhasabe
+- **Rana Arslantürk Yıldırım** / Editör
+- **Soner Yıldırım** / Dijital Pazarlama Uzmanı
+
+- **Furkan Avcı** / Front-End Developer-Stajer
+- **Tuğba Özbek** / Front-End Developer-Stajer
+- **Aleyna Yılmaz** / Front-End Developer-Stajer
+- **Enes Polat** / Front-End Developer-Stajer
+- **Osman Çetin** / Front-End Developer-Stajer
+
+- **Uğurcan Çelikel** / Smart Contract-Stajer
+- **Ahmet Mert Gökçe** / Smart Contract-Stajer
