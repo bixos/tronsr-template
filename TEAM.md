@@ -38,3 +38,4 @@ We are a team of experts who believe in the future of cryptocurrencies. Our team
 
 - **Uğurcan Çelikel** / Smart Contract-Stajer
 - **Ahmet Mert Gökçe** / Smart Contract-Stajer
+
